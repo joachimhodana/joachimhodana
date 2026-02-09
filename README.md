@@ -2,9 +2,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=style77&label=Profile%20views&color=0e75b6&style=flat" alt="style77" /> </p>
 
-- 👨‍💻 All of my projects are available at [joachimhodana.com](joachimhodana.com)
+- 👨‍💻 All of my projects are available at [joachimhodana.com](https://joachimhodana.com)
 
-- 📫 Reach me at **me@joachimhodana.com**
+- 📫 Reach me at **[me@joachimhodana.com](mailto:me@joachimhodana.com)**
 
 - Data Engineer & Software Engineer
 
