@@ -12,7 +12,7 @@
 
 <h3 align="left">Find your first 100 users before writing a line of code!</h3>
 <p align="left">
-  Try <a href="waitset.com">waitset</a> for free
+  Try <a href="https://waitset.com?ref=joachim-github">waitset</a> for free
 </p>
 
 <h3 align="left">Connect with me:</h3>
